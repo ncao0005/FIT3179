@@ -1,7 +1,5 @@
 body {
     background-image: radial-gradient( white, black ), linear-gradient( #96ffff, #46b2ff);
-    background-blend-mode: overlay, multiply, normal;
-    background-size: cover;
 }
 
 #Homework8_map {
