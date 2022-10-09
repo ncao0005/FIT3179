@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+  
+  <!-- CSS file -->
+  <link rel="stylesheet" href="./CSS/styles.css">
+
+  <!-- pure css file -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@2.1.0/build/pure-min.css" integrity="sha384-yHIFVG6ClnONEA5yB5DJXfW2/KC173DIQrYoZMEtBvGzmf0PKiGyNEqe9N6BNDBH" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@2.1.0/build/grids-responsive-min.css" />
+  <title>Homework Four</title>
+</head>
+
+<body>
+    <h1 style="text-align: center">The impact of Covid-19 on international flights</h1>
+    <div class="container">
+        <div class="center">
+    <div id="Homework8_map">
+        <script type="text/javascript">
+    
+            var spec2 = "js/Homework8_map.vg.json";
+            vegaEmbed('#Homework8_map', spec2).then(function(result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+          </script>
+          
+    </div>
+        </div>
+    </div>
+
+    <h1></h1>
+
+    <div class="container">
+        <div class="center">
+    <div id="Region">
+        <script type="text/javascript">
+    
+            var spec3 = "js/Region.vg.json";
+            vegaEmbed('#Region', spec3).then(function(result) {
+              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+            }).catch(console.error);
+          </script>
+    </div>
+        </div>
+    </div>
+</body>
+</html>
