@@ -1,0 +1,675 @@
+﻿Month,PortRegion,Australia,LongitudeInAustralia,LatitudeInAustralia,International,LongitudeInternation,LatitudeInternational,Airline ,Allflights
+2019/12/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  62
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  118
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  41
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  135
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Virgin Australia,  63
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Bangkok,100.501762,13.756331,Jetstar,  13
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  46
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  25
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  33
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Virgin Australia,  32
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Jetstar,  65
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Qantas Airways,  31
+2019/12/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  31
+2019/12/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  62
+2019/12/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  31
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Ho Chi Minh City,106.629662,10.823099,Jetstar,  14
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  93
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  30
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Virgin Australia,  30
+2019/12/1,N America,Melbourne,144.9631,-37.8136,Honolulu,-157.8582,21.3099,Jetstar,  10
+2019/12/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  28
+2019/12/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  39
+2019/12/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Virgin Australia,  21
+2019/12/1,Islands,Melbourne,144.9631,-37.8136,Nadi,177.4167,-17.4800,Virgin Australia,  18
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Phuket,98.3982,7.8900,Jetstar,  17
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  24
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  39
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Qantas Airways,  2
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Virgin Australia,  17
+2019/12/1,N America,Melbourne,144.9631,-37.8136,San Francisco,-122.419418,37.774929,Qantas Airways,  15
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Seoul,126.977966,37.566536,Jetstar,  3
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Emirates,  31
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Jetstar,  1
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  61
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  52
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  124
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  17
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Jetstar,  1
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Qantas Airways,  31
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  30
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  34
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Singapore Airlines,  18
+2019/12/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  62
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  114
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  41
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  134
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Virgin Australia,  63
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Bangkok,100.501762,13.756331,Jetstar,  13
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  45
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  26
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  33
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Virgin Australia,  32
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Jetstar,  66
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Jetstar,  1
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Qantas Airways,  31
+2019/12/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  31
+2019/12/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  62
+2019/12/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  31
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Ho Chi Minh City,106.629662,10.823099,Jetstar,  13
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  93
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  30
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Virgin Australia,  30
+2019/12/1,N America,Melbourne,144.9631,-37.8136,Honolulu,-157.8582,21.3099,Jetstar,  10
+2019/12/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  28
+2019/12/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  39
+2019/12/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Virgin Australia,  22
+2019/12/1,Islands,Melbourne,144.9631,-37.8136,Nadi,177.4167,-17.4800,Virgin Australia,  18
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Phuket,98.3982,7.8900,Jetstar,  17
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  24
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  39
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Qantas Airways,  2
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Virgin Australia,  17
+2019/12/1,N America,Melbourne,144.9631,-37.8136,San Francisco,-122.419418,37.774929,Qantas Airways,  15
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Seoul,126.977966,37.566536,Jetstar,  4
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Emirates,  31
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Jetstar,  1
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  61
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  52
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  124
+2019/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  18
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Jetstar,  1
+2019/12/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Qantas Airways,  31
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  30
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  34
+2019/12/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Singapore Airlines,  17
+2020/1/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  62
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  117
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  45
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  129
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Virgin Australia,  61
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Bangkok,100.501762,13.756331,Jetstar,  13
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  47
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  27
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  32
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Virgin Australia,  31
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Jetstar,  74
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Qantas Airways,  31
+2020/1/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  31
+2020/1/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  62
+2020/1/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  31
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Ho Chi Minh City,106.629662,10.823099,Jetstar,  12
+2020/1/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  93
+2020/1/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  30
+2020/1/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Virgin Australia,  31
+2020/1/1,N America,Melbourne,144.9631,-37.8136,Honolulu,-157.8582,21.3099,Jetstar,  12
+2020/1/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  31
+2020/1/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  1
+2020/1/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  38
+2020/1/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  2
+2020/1/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Virgin Australia,  22
+2020/1/1,Islands,Melbourne,144.9631,-37.8136,Nadi,177.4167,-17.4800,Virgin Australia,  14
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Phuket,98.3982,7.8900,Jetstar,  17
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  30
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  43
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Virgin Australia,  20
+2020/1/1,N America,Melbourne,144.9631,-37.8136,San Francisco,-122.419418,37.774929,Qantas Airways,  18
+2020/1/1,NE Asia,Melbourne,144.9631,-37.8136,Seoul,126.977966,37.566536,Jetstar,  5
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Emirates,  31
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  61
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  54
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  124
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  23
+2020/1/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Qantas Airways,  1
+2020/1/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Qantas Airways,  30
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  29
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  33
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Singapore Airlines,  22
+2020/1/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  62
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  117
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  46
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  129
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Virgin Australia,  61
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Bangkok,100.501762,13.756331,Jetstar,  13
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  47
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  27
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  33
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Virgin Australia,  31
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Jetstar,  74
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Qantas Airways,  31
+2020/1/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  31
+2020/1/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  62
+2020/1/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  31
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Ho Chi Minh City,106.629662,10.823099,Jetstar,  13
+2020/1/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  93
+2020/1/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  30
+2020/1/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Virgin Australia,  31
+2020/1/1,N America,Melbourne,144.9631,-37.8136,Honolulu,-157.8582,21.3099,Jetstar,  12
+2020/1/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  31
+2020/1/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  40
+2020/1/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Virgin Australia,  21
+2020/1/1,Islands,Melbourne,144.9631,-37.8136,Nadi,177.4167,-17.4800,Virgin Australia,  14
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Phuket,98.3982,7.8900,Jetstar,  18
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  30
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  43
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Virgin Australia,  20
+2020/1/1,N America,Melbourne,144.9631,-37.8136,San Francisco,-122.419418,37.774929,Qantas Airways,  18
+2020/1/1,NE Asia,Melbourne,144.9631,-37.8136,Seoul,126.977966,37.566536,Jetstar,  5
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Emirates,  31
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  61
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  54
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  124
+2020/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  22
+2020/1/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Qantas Airways,  31
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  28
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  32
+2020/1/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Singapore Airlines,  23
+2020/2/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  58
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  96
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  30
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  113
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Virgin Australia,  54
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Bangkok,100.501762,13.756331,Jetstar,  13
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  37
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  24
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  29
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Virgin Australia,  29
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Jetstar,  54
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Qantas Airways,  26
+2020/2/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  29
+2020/2/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  58
+2020/2/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  29
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Ho Chi Minh City,106.629662,10.823099,Jetstar,  13
+2020/2/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  70
+2020/2/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  26
+2020/2/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Virgin Australia,  9
+2020/2/1,N America,Melbourne,144.9631,-37.8136,Honolulu,-157.8582,21.3099,Jetstar,  12
+2020/2/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  26
+2020/2/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  35
+2020/2/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  2
+2020/2/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Virgin Australia,  21
+2020/2/1,Islands,Melbourne,144.9631,-37.8136,Nadi,177.4167,-17.4800,Virgin Australia,  9
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Phuket,98.3982,7.8900,Jetstar,  16
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  20
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  29
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Virgin Australia,  16
+2020/2/1,N America,Melbourne,144.9631,-37.8136,San Francisco,-122.419418,37.774929,Qantas Airways,  16
+2020/2/1,N America,Melbourne,144.9631,-37.8136,San Francisco,-122.419418,37.774929,Qantas Airways,  1
+2020/2/1,NE Asia,Melbourne,144.9631,-37.8136,Seoul,126.977966,37.566536,Jetstar,  4
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Emirates,  29
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  58
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  36
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  116
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  21
+2020/2/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Qantas Airways,  29
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  25
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  29
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Singapore Airlines,  21
+2020/2/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  58
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  96
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  30
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  115
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Virgin Australia,  54
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Bangkok,100.501762,13.756331,Jetstar,  13
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  37
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  24
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  29
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Virgin Australia,  29
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Jetstar,  54
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Qantas Airways,  26
+2020/2/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  28
+2020/2/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  58
+2020/2/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  29
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Ho Chi Minh City,106.629662,10.823099,Jetstar,  13
+2020/2/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  70
+2020/2/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  26
+2020/2/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Virgin Australia,  10
+2020/2/1,N America,Melbourne,144.9631,-37.8136,Honolulu,-157.8582,21.3099,Jetstar,  12
+2020/2/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  26
+2020/2/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  37
+2020/2/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Virgin Australia,  21
+2020/2/1,Islands,Melbourne,144.9631,-37.8136,Nadi,177.4167,-17.4800,Virgin Australia,  9
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Phuket,98.3982,7.8900,Jetstar,  16
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  21
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  29
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Virgin Australia,  16
+2020/2/1,N America,Melbourne,144.9631,-37.8136,San Francisco,-122.419418,37.774929,Qantas Airways,  17
+2020/2/1,NE Asia,Melbourne,144.9631,-37.8136,Seoul,126.977966,37.566536,Jetstar,  4
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Emirates,  29
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  58
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  36
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  116
+2020/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  21
+2020/2/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Qantas Airways,  29
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  24
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  29
+2020/2/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Singapore Airlines,  21
+2020/3/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  42
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  81
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  21
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  93
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Virgin Australia,  41
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Bangkok,100.501762,13.756331,Jetstar,  10
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  23
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  20
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  25
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Virgin Australia,  27
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Jetstar,  47
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Jetstar,  3
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Qantas Airways,  18
+2020/3/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  35
+2020/3/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  47
+2020/3/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  23
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Ho Chi Minh City,106.629662,10.823099,Jetstar,  10
+2020/3/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  41
+2020/3/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  15
+2020/3/1,N America,Melbourne,144.9631,-37.8136,Honolulu,-157.8582,21.3099,Jetstar,  5
+2020/3/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  25
+2020/3/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  1
+2020/3/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  30
+2020/3/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Virgin Australia,  14
+2020/3/1,Islands,Melbourne,144.9631,-37.8136,Nadi,177.4167,-17.4800,Virgin Australia,  6
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Phuket,98.3982,7.8900,Jetstar,  9
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  13
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  22
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Virgin Australia,  13
+2020/3/1,N America,Melbourne,144.9631,-37.8136,San Francisco,-122.419418,37.774929,Qantas Airways,  11
+2020/3/1,NE Asia,Melbourne,144.9631,-37.8136,Seoul,126.977966,37.566536,Jetstar,  1
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Emirates,  23
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  39
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  20
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  89
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  14
+2020/3/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Qantas Airways,  21
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  15
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  25
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Singapore Airlines,  15
+2020/3/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  42
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  80
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  20
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  91
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Virgin Australia,  40
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Bangkok,100.501762,13.756331,Jetstar,  10
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  23
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  19
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  25
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Virgin Australia,  26
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Jetstar,  45
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Jetstar,  1
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Denpasar,115.2336,-8.6722,Qantas Airways,  18
+2020/3/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  35
+2020/3/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  47
+2020/3/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  23
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Ho Chi Minh City,106.629662,10.823099,Jetstar,  10
+2020/3/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  41
+2020/3/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  15
+2020/3/1,N America,Melbourne,144.9631,-37.8136,Honolulu,-157.8582,21.3099,Jetstar,  5
+2020/3/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  25
+2020/3/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  32
+2020/3/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Virgin Australia,  14
+2020/3/1,Islands,Melbourne,144.9631,-37.8136,Nadi,177.4167,-17.4800,Virgin Australia,  6
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Phuket,98.3982,7.8900,Jetstar,  9
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Phuket,98.3982,7.8900,Jetstar,  2
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  13
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  21
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Virgin Australia,  13
+2020/3/1,N America,Melbourne,144.9631,-37.8136,San Francisco,-122.419418,37.774929,Qantas Airways,  12
+2020/3/1,NE Asia,Melbourne,144.9631,-37.8136,Seoul,126.977966,37.566536,Jetstar,  1
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Emirates,  23
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  39
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  20
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  91
+2020/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  15
+2020/3/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Qantas Airways,  1
+2020/3/1,NE Asia,Melbourne,144.9631,-37.8136,Tokyo,139.691711,35.689487,Qantas Airways,  20
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  15
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  25
+2020/3/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Singapore Airlines,  14
+2020/4/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  15
+2020/4/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  8
+2020/4/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  6
+2020/4/1,S America,Melbourne,144.9631,-37.8136,Buenos Aires,-58.381557,-34.603683,Qantas Airways,  1
+2020/4/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  38
+2020/4/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  5
+2020/4/1,Africa,Melbourne,144.9631,-37.8136,Johannesburg,28.0455,-26.2015,Qantas Airways,  1
+2020/4/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  3
+2020/4/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  15
+2020/4/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  8
+2020/4/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  6
+2020/4/1,S America,Melbourne,144.9631,-37.8136,Buenos Aires,-58.381557,-34.603683,Qantas Airways,  1
+2020/4/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  39
+2020/4/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  5
+2020/4/1,Africa,Melbourne,144.9631,-37.8136,Johannesburg,28.0455,-26.2015,Qantas Airways,  1
+2020/4/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  3
+2020/5/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  8
+2020/5/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  9
+2020/5/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  2
+2020/5/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  30
+2020/5/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  5
+2020/5/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  8
+2020/5/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  7
+2020/5/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  3
+2020/5/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  7
+2020/5/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  9
+2020/5/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  2
+2020/5/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  30
+2020/5/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  5
+2020/5/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Qantas Airways,  9
+2020/5/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  8
+2020/5/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  3
+2020/6/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  11
+2020/6/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  13
+2020/6/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  30
+2020/6/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  13
+2020/6/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  8
+2020/6/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  2
+2020/6/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  1
+2020/6/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  39
+2020/6/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  12
+2020/6/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  13
+2020/6/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  30
+2020/6/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  12
+2020/6/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  8
+2020/6/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  1
+2020/6/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  1
+2020/6/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  30
+2020/7/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  16
+2020/7/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  16
+2020/7/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  30
+2020/7/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  14
+2020/7/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  14
+2020/7/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  30
+2020/8/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  14
+2020/8/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  19
+2020/8/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  31
+2020/8/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  13
+2020/8/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  17
+2020/8/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  28
+2020/9/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  22
+2020/9/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  26
+2020/9/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  30
+2020/9/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  13
+2020/9/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  16
+2020/9/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  2
+2020/9/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  26
+2020/10/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  23
+2020/10/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  31
+2020/10/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  31
+2020/10/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  14
+2020/10/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  14
+2020/10/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  25
+2020/11/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  15
+2020/11/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  20
+2020/11/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  30
+2020/11/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  30
+2020/11/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  12
+2020/11/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  20
+2020/11/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  2
+2020/11/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  43
+2020/12/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  17
+2020/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  28
+2020/12/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  21
+2020/12/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  11
+2020/12/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  21
+2020/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  15
+2020/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  31
+2020/12/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  22
+2020/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  31
+2020/12/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  29
+2020/12/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  13
+2020/12/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  21
+2020/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  29
+2020/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  31
+2021/1/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  26
+2021/1/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  18
+2021/1/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  2
+2021/1/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  28
+2021/1/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  8
+2021/1/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  27
+2021/1/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qatar Airways,  2
+2021/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  17
+2021/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  32
+2021/1/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  21
+2021/1/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  21
+2021/1/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  30
+2021/1/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  10
+2021/1/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  27
+2021/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  31
+2021/1/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  30
+2021/2/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  9
+2021/2/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  13
+2021/2/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  11
+2021/2/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  6
+2021/2/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  16
+2021/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  9
+2021/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  28
+2021/2/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  20
+2021/2/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  13
+2021/2/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  27
+2021/2/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  11
+2021/2/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  16
+2021/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  23
+2021/2/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  28
+2021/3/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  11
+2021/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  1
+2021/3/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  22
+2021/3/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  17
+2021/3/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  30
+2021/3/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  12
+2021/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  5
+2021/3/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  33
+2021/4/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  17
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  40
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  6
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  15
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  12
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  7
+2021/4/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  18
+2021/4/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  11
+2021/4/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  13
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  5
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Qantas Airways,  5
+2021/4/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  15
+2021/4/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  30
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  8
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  12
+2021/4/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  22
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  38
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  6
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  15
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  10
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  7
+2021/4/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  28
+2021/4/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  13
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  5
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Qantas Airways,  5
+2021/4/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  29
+2021/4/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  31
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  8
+2021/4/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  12
+2021/5/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  18
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  66
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  18
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  35
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  23
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  13
+2021/5/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  26
+2021/5/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  12
+2021/5/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  14
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  11
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Qantas Airways,  7
+2021/5/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  30
+2021/5/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  31
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  21
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  24
+2021/5/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  21
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  56
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  18
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  28
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  23
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  13
+2021/5/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  31
+2021/5/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  13
+2021/5/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  13
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  10
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Qantas Airways,  7
+2021/5/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  31
+2021/5/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  31
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  20
+2021/5/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  24
+2021/6/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  22
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  38
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  1
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  9
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  5
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  1
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  6
+2021/6/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  26
+2021/6/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  13
+2021/6/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  22
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  2
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  2
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Qantas Airways,  5
+2021/6/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  30
+2021/6/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  38
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  3
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  6
+2021/6/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  22
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  24
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  1
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  4
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  5
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  1
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  3
+2021/6/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  30
+2021/6/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  13
+2021/6/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  22
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  2
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  2
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Qantas Airways,  2
+2021/6/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  30
+2021/6/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  38
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  3
+2021/6/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  4
+2021/7/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  20
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  47
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  11
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  30
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  10
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  5
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  13
+2021/7/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  25
+2021/7/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  14
+2021/7/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  22
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  13
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  12
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Qantas Airways,  16
+2021/7/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  30
+2021/7/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  61
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  10
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  16
+2021/7/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  20
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  26
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Jetstar,  10
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Qantas Airways,  18
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Air New Zealand,  10
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Jetstar,  4
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Christchurch,172.6380,-43.5308,Qantas Airways,  10
+2021/7/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  29
+2021/7/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  14
+2021/7/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  24
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Air New Zealand,  12
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Jetstar,  8
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Queenstown,168.6580,-45.0327,Qantas Airways,  11
+2021/7/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  29
+2021/7/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  62
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Air New Zealand,  10
+2021/7/1,New Zealand,Melbourne,144.9631,-37.8136,Wellington,174.7760,-41.2851,Qantas Airways,  13
+2021/8/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  21
+2021/8/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  17
+2021/8/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  19
+2021/8/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  13
+2021/8/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  23
+2021/8/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  30
+2021/8/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  62
+2021/8/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  21
+2021/8/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  1
+2021/8/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  19
+2021/8/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  12
+2021/8/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  24
+2021/8/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  21
+2021/8/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  62
+2021/9/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  17
+2021/9/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  4
+2021/9/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  17
+2021/9/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  13
+2021/9/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  23
+2021/9/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  30
+2021/9/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  60
+2021/9/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  17
+2021/9/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  1
+2021/9/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  17
+2021/9/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  12
+2021/9/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  24
+2021/9/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  20
+2021/9/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  60
+2021/10/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  18
+2021/10/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  4
+2021/10/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  14
+2021/10/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  13
+2021/10/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  30
+2021/10/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  31
+2021/10/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  62
+2021/10/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  18
+2021/10/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  5
+2021/10/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  14
+2021/10/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  14
+2021/10/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  30
+2021/10/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  27
+2021/10/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  61
+2021/11/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  17
+2021/11/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  16
+2021/11/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  12
+2021/11/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  17
+2021/11/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  40
+2021/11/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  1
+2021/11/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  1
+2021/11/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  4
+2021/11/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  30
+2021/11/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  60
+2021/11/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  17
+2021/11/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  16
+2021/11/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  12
+2021/11/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  16
+2021/11/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  39
+2021/11/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  2
+2021/11/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  4
+2021/11/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  30
+2021/11/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  60
+2021/12/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  21
+2021/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  19
+2021/12/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  31
+2021/12/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  31
+2021/12/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  38
+2021/12/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  12
+2021/12/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  5
+2021/12/1,Islands,Melbourne,144.9631,-37.8136,Nadi,177.4167,-17.4800,Virgin Australia,  8
+2021/12/1,S Asia,Melbourne,144.9631,-37.8136,New Delhi,77.2089,28.6139,Qantas Airways,  5
+2021/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Jetstar,  7
+2021/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  14
+2021/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  31
+2021/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  62
+2021/12/1,Middle East,Melbourne,144.9631,-37.8136,Abu Dhabi,54.3549,24.4882,Etihad Airways,  20
+2021/12/1,New Zealand,Melbourne,144.9631,-37.8136,Auckland,174.7628,-36.8473,Air New Zealand,  19
+2021/12/1,Middle East,Melbourne,144.9631,-37.8136,Doha,51.53104,25.285446,Qatar Airways,  30
+2021/12/1,Middle East,Melbourne,144.9631,-37.8136,Dubai,55.270782,25.204849,Emirates,  31
+2021/12/1,NE Asia,Melbourne,144.9631,-37.8136,Hong Kong,114.109497,22.396427,Cathay Pacific Airways,  38
+2021/12/1,Europe,Melbourne,144.9631,-37.8136,London,-0.1262,51.5002,Qantas Airways,  11
+2021/12/1,N America,Melbourne,144.9631,-37.8136,Los Angeles,-118.2433,34.0522,Qantas Airways,  6
+2021/12/1,Islands,Melbourne,144.9631,-37.8136,Nadi,177.4167,-17.4800,Virgin Australia,  8
+2021/12/1,S Asia,Melbourne,144.9631,-37.8136,New Delhi,77.2089,28.6139,Qantas Airways,  5
+2021/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Jetstar,  7
+2021/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Qantas Airways,  14
+2021/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Scoot Tigerair,  31
+2021/12/1,SE Asia,Melbourne,144.9631,-37.8136,Singapore,103.819839,1.352083,Singapore Airlines,  62
