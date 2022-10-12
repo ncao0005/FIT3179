@@ -1,16 +1,37 @@
 body {
-    background-color: #8aaca7;
+    background-color: #e6e3e3;
+}
+
+h1 {
+    text-align: center;
+}
+#text {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+    font-size: 25pt;
 }
 
 #Homework8_map {
-	margin-left: 15%;
-    margin-right: auto;
+    position:relative;
+    left: 11%;
+    padding: 25px;
+   
+}
+
+.outer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 #Region {
-    display: block;
-    margin-left: 20%;
-    margin-right: auto;
+    padding: 25px;
+}
+
+#Airlines {
+    padding: 25px;
 }
 
 

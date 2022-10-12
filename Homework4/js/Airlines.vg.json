@@ -1,0 +1,75 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 290,
+    "title": "Number of flights operated by major Airlines",
+    "layer": [
+    {
+    "data":{
+      "url": "https://raw.githubusercontent.com/ncao0005/FIT3179/main/Homework4/Data/Airline.csv"
+    },
+     "params": [
+      {
+        "name": "Select",
+        "select": {"type": "point", "fields": ["Airline "]},
+        "bind": {"input": "select", "options":[
+            null,
+            "Air New Zealand",
+            "Cathay Pacific Airways",
+            "Emirates",
+            "Etihad Airways",
+            "Jetstar",
+            "Qantas Airways",
+            "Qatar Airways",
+            "Scoot Tigerair",
+            "Singapore Airlines",
+            "Virgin Australia"
+          ]
+          }
+      }
+    ],
+    "transform": [ 
+      { 
+         "aggregate": [{
+           "op": "sum",
+           "field": "Allflights",
+           "as":"Totalflights"
+         }],  
+         "groupby": ["Airline ","Month"]
+       }
+    ],
+    "mark":"line",
+    "encoding": {
+      "x": {
+            "field":"Month",
+            "timeUnit":{"unit":"yearmonth", "step": 1},
+            "type": "ordinal",
+            "axis": {"labelAngle": -70,"labelFontSize":8},
+            "title": "Date"
+          },
+      "y": {"field": "Totalflights", "type": "quantitative","title":"Number of flights"},
+      "color": {
+        "condition": {
+          "param": "Select",
+          "field":"Airline ",
+          "type":"nominal"
+        },
+        "value": "grey"
+      },
+      "opacity": {
+        "condition": {
+          "param": "Select",
+          "value": 1
+        },
+        "value": 0.1
+      },
+      "tooltip":[
+        {"field":"Month", "type": "ordinal","timeUnit":"yearmonth", "title":"Date"},
+        {"field": "Airline ", "type": "nominal"},
+        {"field":"Totalflights","type": "quantitative", "title":"Number of flights"}
+      ]
+     
+    }
+    }
+    ]
+  }

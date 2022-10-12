@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 700,
-  "height": 600,
+  "width": 500,
+  "height": 300,
   "title": "Number of flights that port at different region",
   "layer": [
     {
@@ -31,7 +31,7 @@
           "field":"Month",
           "timeUnit":{"unit":"yearmonth", "step": 1},
           "type": "ordinal",
-          "axis": {"labelAngle": -60,"labelFontSize":9},
+          "axis": {"labelAngle": -70,"labelFontSize":8},
           "title": "Date"
         },
         "y":{
@@ -71,7 +71,7 @@
       "baseline": "middle",
       "dy":-4,
       "dx":-10,
-      "fontSize": 10,
+      "fontSize": 8,
       "color":"blue"
     },
     "encoding": {

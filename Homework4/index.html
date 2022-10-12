@@ -12,30 +12,58 @@
   <!-- pure css file -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@2.1.0/build/pure-min.css" integrity="sha384-yHIFVG6ClnONEA5yB5DJXfW2/KC173DIQrYoZMEtBvGzmf0PKiGyNEqe9N6BNDBH" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@2.1.0/build/grids-responsive-min.css" />
-  <title>Homework Four</title>
+  <title>Assignment</title>
 </head>
 
 <body>
     <h1>The impact of Covid-19 on international flights</h1>
+     
+    <div>
+      <p id="text">Introduction <br><br></p>
+    </div>
+
+    <h1></h1>
+
     <div id="Homework8_map">
         <script type="text/javascript">
     
-            var spec2 = "js/Homework8_map.vg.json";
+            var spec2 = "js/Route.vg.json";
             vegaEmbed('#Homework8_map', spec2).then(function(result) {
               // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
             }).catch(console.error);
           </script>
-          
+    </div>
+
+    <h1></h1>
+
+    <div>
+      <p id="text">Explanation <br><br></p>
     </div>
     
-    <div id="Region">
-        <script type="text/javascript">
-    
-            var spec3 = "js/Region.vg.json";
-            vegaEmbed('#Region', spec3).then(function(result) {
-              // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-            }).catch(console.error);
-          </script>
+    <h1></h1>
+    <div class="outer">
+        <div id="Region">
+            <script type="text/javascript">
+        
+                var spec3 = "js/Region.vg.json";
+                vegaEmbed('#Region', spec3).then(function(result) {
+                  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                }).catch(console.error);
+              </script>
+        </div>
+
+        <div id="Airlines">
+          <script type="text/javascript">
+      
+              var spec4 = "js/Airlines.vg.json";
+              vegaEmbed('#Airlines', spec4).then(function(result) {
+                // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+              }).catch(console.error);
+            </script>
+      </div>
+    </div>
+    <div>
+      <p id="text">Explanation <br><br></p>
     </div>
 </body>
 </html>
