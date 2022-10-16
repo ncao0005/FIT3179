@@ -24,7 +24,8 @@
             "Scoot Tigerair",
             "Singapore Airlines",
             "Virgin Australia"
-          ]
+          ],
+          "name": "Select Airline"
           }
       }
     ],
@@ -47,12 +48,13 @@
             "axis": {"labelAngle": -70,"labelFontSize":8},
             "title": "Date"
           },
-      "y": {"field": "Totalflights", "type": "quantitative","title":"Number of flights"},
+      "y": {"field": "Totalflights", "type": "quantitative","title":"Number of flights", "axis": {"labelFontSize":8}},
       "color": {
         "condition": {
           "param": "Select",
           "field":"Airline ",
-          "type":"nominal"
+          "type":"nominal",
+          "legend":{"labelFontSize":8, "orient": "top-right"}
         },
         "value": "grey"
       },

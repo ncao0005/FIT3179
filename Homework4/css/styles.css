@@ -1,22 +1,34 @@
 body {
-    background-color: #e6e3e3;
+    background-color: white;
 }
 
 h1 {
     text-align: center;
+    color:#527298;
 }
 #text {
-    text-align: center;
-    width: 80%;
+    
+    width: 85%;
     margin: auto;
     border: 1px solid black;
-    font-size: 25pt;
+    background-color: rgb(200, 198, 194);
+}
+
+h2{
+    text-align: center;
+    color:#527298;
+}
+
+p {
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 #Homework8_map {
     position:relative;
     left: 11%;
     padding: 25px;
+    width: 80%;
    
 }
 
@@ -26,12 +38,14 @@ h1 {
     justify-content: space-evenly;
 }
 
-#Region {
-    padding: 25px;
+
+#Region{
+   left: 2%;
 }
 
-#Airlines {
-    padding: 25px;
+#Airlines{
+    margin-left: -5px;
 }
+
 
 

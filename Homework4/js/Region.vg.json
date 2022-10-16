@@ -35,10 +35,26 @@
           "title": "Date"
         },
         "y":{
-          "aggregate":"sum", "field":"Totalflights", "title":"Total number of flights"
+          "aggregate":"sum", "field":"Totalflights", "title":"Total number of flights",
+          "axis": {"labelFontSize":8}
         },
         "color":{
-          "field":"PortRegion"
+          "field":"PortRegion",
+          "legend":{"title":"Port region",
+          "values":[
+            "Europe",
+            "Islands",
+            "Middle East",
+            "N America",
+            "NE Asia",
+            "New Zealand",
+            "S America",
+            "S Asia",
+            "SE Asia"
+          ],
+          "labelFontSize":8,
+          "orient": "top-right"
+        }
         },
         "tooltip":[
            {"field": "PortRegion", "type": "nominal"},
@@ -50,35 +66,6 @@
           "value": 0.2
         }
       }
-    },
-    {
-    "data": {
-      "url": "https://raw.githubusercontent.com/ncao0005/FIT3179/main/Homework4/Data/Homework4Region.csv"
-    },
-     "transform": [ 
-     {
-       "aggregate": [{
-         "op": "sum",
-         "field": "Allflights",
-         "as":"Totalflights"
-       }],
-       "groupby": ["PortRegion","Month"]
-     }
-  ],
-    "mark": {
-      "type": "text",
-      "align": "center",
-      "baseline": "middle",
-      "dy":-4,
-      "dx":-10,
-      "fontSize": 8,
-      "color":"blue"
-    },
-    "encoding": {
-    "x": {"field":"Month","type": "ordinal"},
-    "y": {"aggregate":"sum", "field":"Totalflights"},
-    "text": {"aggregate":"sum", "field":"Totalflights", "type": "nominal"}
-    }
     }
   ]
 }
